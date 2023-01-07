@@ -33,13 +33,13 @@
   align-items: center;
   background-color: #4d4949;
 }
-
-.circle:active {
+ .circle:active {
   transform: translate(3%, 3%);
   background-color: rgb(190, 190, 185);
   color: black;
   font-weight: 600;
-}
+} 
+
 
 .circle17 {
   grid-column-start: 1;
